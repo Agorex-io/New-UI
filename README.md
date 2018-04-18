@@ -1,6 +1,13 @@
-# ![ForkDelta logo](public/favicon-32x32.png) ForkDelta: The NextGen UI
+# Agorex - New-UI
+[![Chat on Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/GVuj6UY)
+[![Join us on Reddit](https://img.shields.io/badge/reddit-Agorex-red.svg)](https://www.reddit.com/r/Agorex/)
 
-This repository contains the next-generation UI for ForkDelta.
+This repository contains the new UI as forked from [ForkDelta](https://github.com/forkdelta), and is an artifact from the migration of developers from ForkDelta to Agorex - The Cooperative Decentralized Exchange.
+
+We are working with the community to develop our plans for the project. More information will be posted here soon. For now come chat with us on our [Discord](https://discord.gg/GVuj6UY) and help influence the future of an open, honest, community-run decentralized exchange!
+
+## About
+This repository contains the next-generation UI for Agorex.
 
 ## Development
 
@@ -12,10 +19,6 @@ and running.
 This is a community-driven project. If you have any questions or feedback
 about the interface or the code, please don't hesitate to file an issue on
 this repo.
-
-Join our Discord if you'd like to chat: https://discord.gg/mMnRq7m.
-
-**For sensitive,** such as security concerns, please message @freeatnet on [Discord](https://discord.gg/mMnRq7m).
 
 ## License
 
